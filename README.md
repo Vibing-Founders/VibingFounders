@@ -2,6 +2,20 @@
 
 A Claude plugin marketplace hosting bootstrapping founder focused plugins for website, platform, and app builders.
 
+---
+
+> **Legal disclaimer**
+>
+> The content produced by these plugins — including compliance assessments, checklists, Legitimate Interests Assessments, Data Protection Impact Assessments, Children's Risk Assessments, and any other outputs — is **for informational purposes only**. It does not constitute legal advice and should not be relied upon as such.
+>
+> Compliance with applicable law depends on your specific facts, business model, jurisdiction, and circumstances, which an AI tool cannot fully assess. You should have any compliance documentation reviewed by a qualified legal professional — a solicitor, barrister, or specialist data protection or regulatory counsel — before relying on it.
+>
+> Use of these plugins does not create a solicitor-client relationship or any other professional relationship between you and the plugin authors.
+>
+> Laws and regulatory guidance change. The information in these plugins reflects the legislation and guidance available at the time of writing and may not reflect subsequent amendments, new guidance, or regulatory decisions.
+
+---
+
 ## Install this marketplace
 
 ```

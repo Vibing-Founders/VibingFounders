@@ -212,7 +212,7 @@ Once you have enough to write the document, produce it. Use the template below e
 
 [Be honest about gaps: e.g., "This assessment is based on self-reported service information. The risk levels assigned should be reviewed against live content moderation data when available." Note if enhanced inputs would strengthen the assessment.]
 
-> **Note**: This document is a first-draft CRA and should be reviewed by a legal advisor before being treated as a final compliance record. It does not constitute legal advice.
+> **Note**: This document was produced with AI assistance and is for informational purposes only. It does not constitute legal advice. Before treating this as a final compliance record, have it reviewed by a qualified legal professional with online safety or regulatory expertise. The risk levels, measures, and conclusions in this document reflect the information provided at the time of assessment — they should be verified against live operational data and updated as your service evolves. Ofcom guidance and the Codes of Practice may be updated; confirm this document reflects current requirements at the time of use.
 ```
 
 ---

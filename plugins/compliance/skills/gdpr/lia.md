@@ -262,6 +262,10 @@ Review this LIA if any of the following occur:
 - New risks or harms are identified
 - Data subjects raise concerns or objections
 - Annual review [date]
+
+---
+
+*This document was produced with AI assistance and is for informational purposes only. It does not constitute legal advice. Before relying on this LIA as a compliance record, have it reviewed by a qualified legal professional with data protection expertise. Laws and regulatory guidance change — verify that this document reflects current requirements at the time of use.*
 ```
 
 ---

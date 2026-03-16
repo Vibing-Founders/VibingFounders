@@ -256,4 +256,6 @@ Review this DPIA if any of the following occur:
 
 *This DPIA was prepared in accordance with Article 35 of [UK GDPR / EU Regulation 2016/679]
 and the Article 29 Working Party Guidelines on DPIA (WP248 rev.01, October 2017).*
+
+*This document was produced with AI assistance and is for informational purposes only. It does not constitute legal advice. Before relying on this DPIA as a compliance record, have it reviewed by a qualified legal professional with data protection expertise. Laws and regulatory guidance change — verify that this document reflects current requirements at the time of use.*
 ```
