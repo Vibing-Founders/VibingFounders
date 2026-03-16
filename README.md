@@ -1,6 +1,6 @@
-# VibingFounders — Compliance Plugin Marketplace
+# VibingFounders — Plugin Marketplace
 
-A public Claude plugin marketplace hosting compliance-focused plugins for website, platform, and app builders.
+A Claude plugin marketplace hosting bootstrapping founder focused plugins for website, platform, and app builders.
 
 ## Install this marketplace
 
