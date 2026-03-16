@@ -134,6 +134,8 @@ You must identify a lawful basis **before** you start processing. You must recor
 - Safeguarding, safety logging, and incident response for children's services often pass the LI test with appropriate safeguards
 - Behavioural advertising, profiling, or non-essential processing will generally **fail** the balancing test for children
 
+> For full LIA guidance, the three-part test in detail, a documentation template, and when an LIA triggers a DPIA — see `knowledge/legitimate-interests-assessment.md`.
+
 ---
 
 ## Quick Reference: Common Platform Activities

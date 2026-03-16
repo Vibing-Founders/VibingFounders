@@ -2,13 +2,14 @@
 name: gdpr
 description: >
   Assess features for GDPR compliance (UK GDPR and EU GDPR), identify the correct lawful basis
-  for data processing activities, generate GDPR implementation checklists, and advise on children's
-  data obligations. Use this skill whenever someone asks about GDPR compliance, lawful basis for
-  processing, data subject rights, DPIAs, consent requirements, children's data under GDPR, or
-  Article 8 obligations. Triggers on: "assess this for GDPR", "what's the lawful basis for X",
-  "GDPR checklist for X", "do we need a DPIA for this", "is this GDPR compliant", "data subject
-  rights for X", "can we rely on legitimate interests for X", "GDPR obligations for X",
-  "/compliance:gdpr", "UK GDPR", "EU GDPR", "ICO obligations".
+  for data processing activities, run or document a Legitimate Interests Assessment (LIA), generate
+  GDPR implementation checklists, and advise on children's data obligations. Use this skill whenever
+  someone asks about GDPR compliance, lawful basis for processing, data subject rights, DPIAs,
+  consent requirements, children's data under GDPR, Article 8 obligations, or legitimate interests.
+  Triggers on: "assess this for GDPR", "what's the lawful basis for X", "GDPR checklist for X",
+  "do we need a DPIA for this", "is this GDPR compliant", "data subject rights for X", "can we
+  rely on legitimate interests for X", "help me do an LIA", "legitimate interests assessment for X",
+  "GDPR obligations for X", "/compliance:gdpr", "UK GDPR", "EU GDPR", "ICO obligations".
 ---
 
 # GDPR Skill
@@ -34,6 +35,7 @@ Read `checklist.md` for instructions.
 | File | When to load |
 |---|---|
 | `knowledge/lawful-basis.md` | When the question involves lawful basis for processing, or whether to rely on consent vs contract vs LI |
+| `knowledge/legitimate-interests-assessment.md` | When the user needs to document a legitimate interests basis, run an LIA, or understand the three-part test in detail |
 | `knowledge/data-subject-rights.md` | When the question involves subject access requests, erasure, portability, or other data subject rights |
 | `knowledge/childrens-data.md` | When the feature involves under-18 users, Article 8 consent, the Children's Code, or age-of-digital-consent |
 | `../../_shared/legislation/uk-gdpr.md` | When specific UK GDPR articles are needed |
