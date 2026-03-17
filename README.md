@@ -1,4 +1,4 @@
-# VibingFounders — Plugin Marketplace
+# Founder Kit — Plugin Marketplace
 
 A Claude plugin marketplace hosting bootstrapping founder focused plugins for website, platform, and app builders.
 
