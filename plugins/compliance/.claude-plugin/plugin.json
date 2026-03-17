@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "Online safety, GDPR, and application security compliance for platform builders. Covers UK OSA, EU DSA, UK/EU GDPR, Children's Code, COPPA, and OWASP.",
   "author": {
-    "name": "VibingFounders",
+    "name": "Vibing Founders",
     "url": "https://github.com/Vibing-Founders"
   },
-  "homepage": "https://github.com/Vibing-Founders/VibingFounders",
-  "repository": "https://github.com/Vibing-Founders/VibingFounders",
+  "homepage": "https://github.com/Vibing-Founders/founder-kit",
+  "repository": "https://github.com/Vibing-Founders/founder-kit",
   "license": "MIT",
   "keywords": ["compliance", "online-safety", "gdpr", "privacy", "platform-builders"],
   "skills": ["./skills/"]

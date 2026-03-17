@@ -8,7 +8,7 @@ description: >
 
 # Add Legislation
 
-You are helping a maintainer add a new act, law, or regulation to the VibingFounders compliance plugin. Work through each step in order, asking for confirmation before proceeding to the next.
+You are helping a maintainer add a new act, law, or regulation to the founder-kit compliance plugin. Work through each step in order, asking for confirmation before proceeding to the next.
 
 ---
 

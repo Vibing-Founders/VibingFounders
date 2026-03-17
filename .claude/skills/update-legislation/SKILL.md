@@ -9,7 +9,7 @@ description: >
 
 # Update Legislation
 
-You are helping a maintainer update an existing legislation file in the VibingFounders compliance plugin. Work through each step in order.
+You are helping a maintainer update an existing legislation file in the founder-kit compliance plugin. Work through each step in order.
 
 ---
 

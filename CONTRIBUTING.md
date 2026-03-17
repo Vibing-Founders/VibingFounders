@@ -1,6 +1,6 @@
 # Contributing a Plugin
 
-This document explains how to add a new plugin to the VibingFounders marketplace.
+This document explains how to add a new plugin to the founder-kit marketplace.
 
 ## Plugin directory structure
 
@@ -27,8 +27,8 @@ plugins/
     "name": "Your Name or Org",
     "url": "https://github.com/your-handle"
   },
-  "homepage": "https://github.com/Vibing-Founders/VibingFounders",
-  "repository": "https://github.com/Vibing-Founders/VibingFounders",
+  "homepage": "https://github.com/Vibing-Founders/founder-kit",
+  "repository": "https://github.com/Vibing-Founders/founder-kit",
   "license": "MIT",
   "keywords": ["relevant", "keywords"],
   "skills": ["./skills/"]
